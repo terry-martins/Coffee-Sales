@@ -4,7 +4,7 @@ In this Dashboard I analyzed the sales data of a Coffee Store and visualized som
 
 I started off by populating some columns with VLOOKUP
 
-![Screenshot (235)](https://github.com/terry-martins/Coffee-Sales/assets/104976263/5f9b7a6d-8e17-44fb-b3a9-5fea953aa90f)
+![Screenshot (235)](https://github.com/terry-martins/Coffee-Sales/assets/104976263/e5ee4287-e8ee-4072-9869-c78dcd094f93)
 
 INDEX & MATCH FUNCTIONS
 
